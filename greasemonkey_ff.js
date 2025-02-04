@@ -2,8 +2,8 @@
 // @name         ZTE-CPE-MC888-SCRIPT UI
 // @version      0.1
 // @description  Add navbar and replace footer with links to hidden features.
-// @include      http://192.168.1.1/*
-// @include      http://192.168.2.1/*
+// @include      http://192.168.10.10/*
+// @include      http://192.168.20.10/*
 // @require https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
 document.body.appendChild(document.createElement('style')).textContent = `
